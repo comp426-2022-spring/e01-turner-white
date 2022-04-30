@@ -30,7 +30,7 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 /* 11. Style only the h1 with id "register" */
-h1 {
+h1[id="register"] {
   /* 12. Make the text BOLD */
   
   /* 13. Make the text color navy (look up the hex code for navy)
