@@ -39,7 +39,7 @@ h1[id="register"] {
 
 hr {
   /* 14. Override default hr style with a 30-pixel bottom margin */
-  
+  margin: 0 0 30px 0
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
   
 }
