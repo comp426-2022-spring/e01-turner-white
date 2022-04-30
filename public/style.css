@@ -73,9 +73,9 @@ a {
 /* 22. Set style for links using the :hover pseudoclass */
 link:hover {
   /* 23. Change the color of links to azure on mouseover */
-  color: #4B9CD3
+  color: #4B9CD3;
   /* 24. Set the text-decoration to underline for links on mouseover */
-  
+  text-decoration: underline;
 }
 
 .signin {
