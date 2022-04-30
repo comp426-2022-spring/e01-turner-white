@@ -67,7 +67,7 @@ a {
   /* 20. Make link text color navy blue (look up the hex code) */
   color: #000080;
   /* 21. Set the text-decoration to none for links */
-  text-decoration: ;
+  text-decoration: none;
 }
 
 /* 22. Set style for links using the :hover pseudoclass */
